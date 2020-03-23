@@ -7,7 +7,7 @@ Os cenários de testes criados com base no protóripo estão no arquivo <a href=
 Foi utilizado o <b>Selenium IDE</b> com o plugin do Google Chrome, o <b> Chrome Driver</b>. A IDE utilizada foi o <b>IntelliJ IDEA</b>.
 Para a execução dos scripts de testes, é necessário adicionar o arquivo chromedriver.exe no diretório C:\drivers que esta dentro da pasta <u>lib</u> no projeto (front-end > src > lib).
 
-O projeto está nomeado como <a href="https://github.com/paulohvalipio/qa-challenge/blob/master/front-end.zip" target="_blank">front-end.zip</a>
+O projeto está nomeado como <a href="https://github.com/paulohvalipio/qa-challenge/blob/master/front-end.zip" target="_blank">front-end.zip</a>.
 
 
 Sobre a etapa <b>3 - Automação de 1 funcionalidade back-end</b>, já realizei alguns testes de verificação de retorno de validações de XML e JSON utilizando o Postman com dados corretos, incorretos, inexistentes, dentre outros. Mas nada mais aprofundado sobre validar esses processos de requisições e respostas. Por isso não foi possível efetivar o desenvolvimento.
